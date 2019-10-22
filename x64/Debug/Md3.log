@@ -1,0 +1,8 @@
+﻿  MainFrm.cpp
+  Md3.cpp
+  Md3Doc.cpp
+  Md3View.cpp
+C:\Users\user\source\repos\Md3\Md3Doc.cpp(46,8): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\user\source\repos\Md3\Md3View.cpp(72,8): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Md3.vcxproj -> C:\Users\user\source\repos\Md3\x64\Debug\Md3.exe
